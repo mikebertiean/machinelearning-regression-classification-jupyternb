@@ -1,2 +1,3 @@
-# machinelearning-regression-classification-jupyternb
-Supervised Machine Learning: Regression and Classification
+# Supervised Machine Learning: Regression and Classification
+
+Jupyter Notebooks from a course on machine learning. 
